@@ -1,0 +1,11 @@
+*{
+    background-color: bisque;
+    height: 0 px;
+    width: 0 px;
+    padding: auto;
+}
+body{
+    background-image:url(images/a.jpg);
+    height: 100px;
+    width: 100px;
+}

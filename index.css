@@ -1,11 +1,46 @@
 *{
     background-color: bisque;
-    height: 0 px;
-    width: 0 px;
-    padding: auto;
+    height: auto;
+    width:1000 px;
+    margin: auto;
 }
-body{
-    background-image:url(images/a.jpg);
+.z{
+    height: auto;
+    width: 1100px;
+    margin: auto;
+}
+
+.a{
     height: 100px;
-    width: 100px;
+    margin: auto;
+    width: auto;
 }
+.b{
+    height: auto;
+    margin: 30px;
+    width: auto;
+}
+.c{
+    height: auto;
+    width: auto;
+    margin: 30px;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-family: cursive;
+}
+p{
+    text-align: center;
+    color:blueviolet;
+    font-family: cursive;
+    font-size:large ;
+}
+
+li{
+    text-align: center;
+    color: red;
+    font-family:cursive ;
+    font-size: x-large;
+}
+
